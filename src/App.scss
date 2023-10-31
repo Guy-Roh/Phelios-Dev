@@ -30,7 +30,7 @@ body {
     position: fixed;
     border-radius: 3px;
     margin: 0;
-    z-index: 100;
+    z-index: 5;
     height: 30px;
     width: 130px;
     color: rgba(61, 61, 61, 0.541);;
@@ -268,6 +268,32 @@ section#BLUEPRINT{
     flex-direction: row;
     align-items: center;
 }
+
+.hover-overlay{
+    background: url(/assets/img/hover_hand.png);
+    opacity: 0.3;
+    background-size: cover;
+    z-index: 10;
+    position: absolute;
+    width: 5vh;
+    height: 5vh;
+    margin-top: 3%;
+}
+#blueprint-vid{
+    border-radius: 20px;
+    height: 100%;
+    z-index: 1;
+    max-width: 60%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    &:hover{
+        cursor: pointer;
+        .hover-overlay{
+            opacity: 0;
+        }
+    }
+}
 .blueprint-text{
     width: 50%;
     height: 100%;
@@ -287,15 +313,8 @@ section#BLUEPRINT{
 
     }
 }
-#blueprint-vid{
-    border-radius: 20px;
-    height: 100%;
-    width: 60%;
-    max-width: 60%;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-}
+
+
 
 section#COLOURS{
     margin: 0;
@@ -416,10 +435,14 @@ section#ABOUT{
     .overview-text{
         font-size: 1.5rem;
     }
+    .blueprint-container{
+        width: 80%;
+    }
     section#COLOURS{
         .canvas-container{
             height: 50vh;
         }
+        
     }
     #colours-container{
         height: 100%;
@@ -471,7 +494,7 @@ section#ABOUT{
     section#BLUEPRINT{
     height: 140vh;
         .blueprint-container{
-            width: 80%;
+            width: 90%;
         }
         .blueprint-text{
             p{

@@ -57,7 +57,7 @@ const SectionOverview = ({text, textTitles}:SectionProps) => {
                     </h2>
                     <p>{text[2]}</p>
                 </div>
-                <Image src="/assets/img/render_usb_3.png" alt="Picture of bottom side reactor with visible USC plug"/>
+                <Image src="/assets/img/render_usb_3.png" alt="Picture of bottom side reactor with visible USB plug"/>
             </div>
         </section>
         );
