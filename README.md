@@ -15,5 +15,5 @@ This is project which is of a fictional portable fusion reactor. I got the idea 
 ## Features
 
 - Real-time 3D model of the Phelios Model A
-- Multilingual support
+- Instant multilingual support (NL/EN)
 - Information about fusion technology and workings of the Model A
