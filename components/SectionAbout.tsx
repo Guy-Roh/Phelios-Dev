@@ -10,6 +10,7 @@ const About = ({text}: {text:string[]}) => {
         <br/>
         <h1>{text[3]}</h1>
         <p>{text[4]}</p>
+        <a href={text[5]}>The code for this site</a>
 
     </section>
   );
