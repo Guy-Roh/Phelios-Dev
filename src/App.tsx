@@ -1,12 +1,12 @@
-import Hero from '../components/Hero';
-import SectionOverview from '../components/SectionOverview';
-import SectionBlueprint from '../components/SectionBlueprint';
-import SectionColours from '../components/SectionColours';
-import SectionAbout from '../components/SectionAbout';
-import LanguageToggle from '../components/LanguageToggle';
-import PageText from '../public/assets/data/page_text.json';
+import Hero from './components/Hero';
+import SectionOverview from './components/SectionOverview';
+import SectionBlueprint from './components/SectionBlueprint';
+import SectionColours from './components/SectionColours';
+import SectionAbout from './components/SectionAbout';
+import LanguageToggle from './components/LanguageToggle';
+import PageText from './data/page_text.json';
 import { useState } from 'react';
-import './App.css';
+import './App.scss';
 
 type PageTextData = {
     heroText: string[],
