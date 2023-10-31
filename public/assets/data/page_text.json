@@ -1,0 +1,20 @@
+[
+    {
+        "language": "en",
+        "heroText": ["THE POWER OF THE SUN IN THE PALM OF YOUR HANDS","OVERVIEW","BLUEPRINT","COLOURS","ABOUT"],
+        "overviewText": ["Due to the power of fusion technology, the Phelios Model A can keep going on a single charge for up to 10 months for everyday use.", "Compatible with all your devices, from your phone to your laptop to your car. Simply use a regular power plug to charge or power your favorite devices.","With the newest USB 5.0 technology, the Model A will charge your devices at lightning speed. It can charge most phones in about 100 seconds and consumer laptops in about 200 seconds."],
+        "overviewTextTitles": ["INTRODUCING THE MODEL A","The portable powerhouse","True versatility","Seconds, not minutes"],
+        "blueprintText": ["HOW IT WORKS", "Made with precision","Using state of the art technology, the Model A creates a fusion reaction inside the central vacuum tube.","We've built this Model with longevity in mind. The hull uses a graphene outer layer, sapphire glass in the front and back and titanium for its core parts.","Use with ease","The power core adjusts its output according to what device you have connected. ","This makes one Deuterium-Tritium cell pair last for up to 10 months."],
+        "coloursText": ["PICK A COLOUR","The style that fits you","Black","Blue","Pink"],
+        "aboutText": ["ABOUT THE PHELIOS COMPANY:","The Phelios company was founded by a group of scientists and engineers with the goal of bringing fusion technology to the masses. We believe that fusion technology is the future of energy and that it should be available to everyone. We are currently working on a fusion reactor that will be able to power entire cities.","The Phelios Model A is our first consumer product. We hope you enjoy it when it will be released in 2077.","Contact us at:","info.phelios@thiscompanyisnotreal.com"]
+    },
+    {
+        "language": "nl",
+        "heroText": ["DE KRACHT VAN DE ZON IN DE PALM VAN UW HANDEN","OVERZICHT","WERKING","KLEUREN","INFO"],
+        "overviewText":["Dankzij de kracht van fusietechnologie kan de Phelios Model A tot 10 maanden doorgaan op één lading.", "Compatibel met al uw apparaten, van uw telefoon tot uw laptop tot uw auto. Gebruik een gewone stekker om uw favoriete apparaten op te laden of van stroom te voorzien.","Maak gebruik van de nieuwste USB 5.0-technologie om uw apparaten op bliksemsnelheid op te laden. De Phelios Reactor kan de meeste telefoons in ongeveer 100 seconden en consumentenlaptops in ongeveer 200 opladen."],
+        "overviewTextTitles": ["ONTDEK MODEL A", "De draagbare krachtpatser","Volle veelzijdigheid","Seconden, geen minuten"],
+        "blueprintText": ["HOE HET WERKT", "Gemaakt met precisie", "Met behulp van de nieuwste technologie creëert de Model A een fusiereactie in de centrale vacuümbuis.", "We hebben dit model gebouwd met duurzaamheid in gedachten. De huls gebruikt een laag van grafeen, saffierglas aan de voor- en achterkant en titanium voor de kernonderdelen.", "Gebruik met gemak", "De energiekern past zijn output aan op basis van het aangesloten apparaat.", "Eén paar deuterium-tritiumcellen gaat tot wel 10 maanden mee."],
+        "coloursText": ["KIES EEN KLEUR", "De stijl die bij jou past", "Zwart", "Blauw", "Roze"],
+        "aboutText": ["OVER HET BEDRIJF PHELIOS:", ""]
+    }
+]
