@@ -13,7 +13,7 @@ const SectionColours = ({text}: {text:string[]}) => {
 
     const [currentProps, setCurrentProps] = useState(materialPropsArray[0]);
 
-    const handleClick = (props: any) => {
+    const handleClick = (props: typeof currentProps) => {
         setCurrentProps(props);
     };
 
