@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { Environment, OrbitControls } from '@react-three/drei';
-import Model from './reactor.tsx'; 
+import Model from './Reactor.tsx'; 
 import Image from '../components/Image.tsx';
 
 type SectionProps = {

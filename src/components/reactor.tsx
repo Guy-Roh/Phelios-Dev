@@ -12,7 +12,7 @@ type MaterialProperties = {
 type ModelProps = JSX.IntrinsicElements['group'] & { materialProps: MaterialProperties};
 
 const Model: React.FC<ModelProps> = ({ materialProps, ...props }) => {
-    const { nodes, materials } = useGLTF('/assets/models/reactor_4.glb') as any;
+    const { nodes, materials } = useGLTF('/assets/models/reactor_5.glb') as any;
 
     const meshData = [
         {geometry: nodes.Cube001_1.geometry, material: "Brushed Steel 1"},

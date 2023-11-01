@@ -34,7 +34,7 @@ const Hero = ({text}: {text:string[]}) => {
   <div className="hero">
     <div className="hero_menu_background"/>
     <video autoPlay loop muted id="prev_vid">
-    <source src="/assets/img/prev_vid.webm" type="video/webm" />
+    <source src="/assets/img/prev_vid_2.webm" type="video/webm" />
     </video>
     <div id="hero_menu_l" className="hero_menu">
         <div className="menu_item" key={0} onClick={() => handleClick(0)}>
