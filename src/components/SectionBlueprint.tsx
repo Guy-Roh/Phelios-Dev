@@ -7,7 +7,7 @@ const SectionBlueprint= ({text}: {text:string[]}) => {
   return (
     <section id='BLUEPRINT' >
       <h1>{text[0]}</h1>
-      <Image src='/assets/img/blueprint4_2.png' alt='blueprint'/>
+      <Image src='/assets/img/blueprint4_2.jpg' alt='blueprint'/>
       <div className="blueprint-container">
         
         <div 
@@ -16,7 +16,7 @@ const SectionBlueprint= ({text}: {text:string[]}) => {
           onMouseOut={() => videoRef.current?.pause()}
         >
             <div className="hover-overlay"></div>
-            <video ref={videoRef} src="/assets/img/blueprint_anim.mp4" muted loop></video>
+            <video ref={videoRef} src="/assets/img/blueprint_anim.webm" muted loop></video>
 
         </div>
         <div className="blueprint-text">

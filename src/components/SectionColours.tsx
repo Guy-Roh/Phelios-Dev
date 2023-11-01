@@ -39,7 +39,7 @@ const SectionColours = ({text}: {text:string[]}) => {
                     <button className="colour-button" id="pink-button" type="button" onClick={() => handleClick(materialPropsArray[1])}>{text[4]}</button>
                 </div>
             </div>
-            <Image src="/assets/img/colours.png" alt="3 reactors in different colour combinations" />
+            <Image src="/assets/img/colours.jpg" alt="3 reactors in different colour combinations" />
             </div>
         </section>
     );
