@@ -3,7 +3,7 @@
 ![Phelios Logo](https://github.com/Guy-Roh/Phelios-Dev/blob/main/public/assets/img/bghero_2.jpg?raw=true)
 
 ## Overview
-This is a project for a fictional portable fusion reactor. I got the idea of the name Phelios from "Portable Helios (Sun)". The project aims to simulate what the future of fusion energy could look like.
+This is a project for a fictional portable fusion reactor. I got the idea of the name Phelios from "Portable Helios (Sun)". The project aims to simulate what the future of fusion energy could look like if presented as a simple-to-use product.
 
 ## Technologies Used
 
