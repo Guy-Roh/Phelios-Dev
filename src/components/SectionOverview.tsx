@@ -38,7 +38,7 @@ const SectionOverview = ({text, textTitles}:SectionProps) => {
                     </Suspense>
                     <OrbitControls enableRotate={true} enablePan={false} enableZoom={false} minPolarAngle={Math.PI / 2} maxPolarAngle={Math.PI/2} />
                 </Canvas>
-                <h1 id='canvasArrow'>⭮</h1>
+                <h1 id='canvasArrow'>↻</h1>
                 </div>
             </div>
             <div className="overview-card">
